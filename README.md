@@ -60,8 +60,7 @@ O novo valor RGB do pixel deve ser determinado de acordo com as seguintes condi�
 ```
 Se tr > 255 ent찾o r = 255, sen찾o r = tr 
 Se tg > 255 ent찾o g = 255, sen찾o g = tg 
-Se ![Captura de tela de 2022-05-18 18-54-15](https://user-images.githubusercontent.com/76853394/169163210-e7c61211-c743-4c83-bc9c-93bfd4da41a1.png)
-tb > 255 ent찾o b = 255, sen찾o b = tb 
+Se tb > 255 ent찾o b = 255, sen찾o b = tb 
 ```
 ![Captura de tela de 2022-05-18 18-54-15](https://user-images.githubusercontent.com/76853394/169163260-d48e28ca-de6d-48dc-8cf0-75b870e2a9ee.png)
 
